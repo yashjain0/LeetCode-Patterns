@@ -7,3 +7,4 @@ My solution file for a question for example 217 from Easy will be.
 Filename-> `217E.py`
 Simply open and us it.
 Happy Coding :)
+[LICENSE](LeetCode-Patterns/License)
